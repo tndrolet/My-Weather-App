@@ -1,0 +1,124 @@
+.container {
+  margin: 35px auto;
+  border: 1px #fff;
+  padding: 15px;
+  border-radius: 10px;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+body {
+  background-image: url("src/images/sunrise.jpg");
+  background-color: #20c997;
+}
+
+form {
+  margin: 50px auto;
+}
+
+.search-box {
+  background-color: seashell;
+  border-radius: 12px 0px 12px 0px;
+  border-bottom: rgba(86, 135, 119, 0.4);
+  padding: 5px 10px;
+  border: none;
+}
+
+button {
+  background: transparent;
+  padding: 5px 8px;
+  border-radius: 0px 12px 0px 12px;
+  border: 2px solid rgba(86, 135, 119, 0.5);
+  transition: all 200ms ease-in-out;
+  color: white;
+  border-style: none;
+  background-color: rgba(86, 135, 119, 0.4);
+}
+
+button:hover {
+  background: rgba(86, 135, 119, 0.4);
+  color: white;
+  cursor: pointer;
+  border-radius: 0px 12px 0px 12px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.temperature {
+  font-size: 40px;
+  margin: 25px auto;
+  color: #568777;
+  font-weight: 900;
+  font-family: "monospace";
+  list-style-type: none;
+  padding: 0;
+  line-height: 10px;
+}
+
+#date_tbd {
+  margin: 0px 15px;
+  font-weight: 500;
+  font-family: "Courier New", Courier, monospace;
+  list-style-type: transparent;
+  line-height: 10px;
+}
+
+h2 {
+  color: #0f2532;
+  line-height: 10px;
+  padding: 5px 10px;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.secondary-info {
+  font-family: Arial, Helvetica, sans-serif
+  margin: 0 auto;
+}
+
+.hi-low {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.forecast {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin: 40px 20px;
+}
+
+h4 {
+  color: #0f2532;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.icon {
+  display: block;
+  margin: 0 auto;
+}
+.pending {
+  text-transform: lowercase;
+}
+
+.final-note {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 800;
+  padding: 150px 15px;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  position: center;
+  width: 60%;
+  height:400px;
+  padding-left: 100px;
+}

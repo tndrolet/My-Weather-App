@@ -88,7 +88,7 @@ function showCurrentpositionTemp(response) {
 }
 
 function currentTemperature(position) {
-  let apikey = "5f06a1bf391e643a7da238959ea0baa6";
+  let apikey = "e324f15108fc425fee3a8dc4306d1b4e";
   let lat = position.coords.latitude;
   let lon = position.coords.longitude;
   let geoApi = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apikey}&units=metric`;

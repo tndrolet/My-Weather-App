@@ -11,7 +11,7 @@ body {
   background-color: #20c997;
   margin: 30px auto;
   padding: 20px;
-  display: block;
+  display: inside;
   border: 1px dashed black;
 }
 

@@ -16,9 +16,7 @@ function getFormattedDate() {
   ];
 
   if (minutes < 10) {
-    formattedMins = `0${minutes}`;
-  } else {
-    formattedMins = minutes;
+    minutes = `0${minutes}`;
   }
   return `${days[dateIndex]} ${hours}:${formattedMins}`;
 }

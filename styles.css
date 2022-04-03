@@ -1,18 +1,5 @@
-.container {
-  margin: 35px auto;
-  border: 1px #fff;
-  padding: 15px;
-  border-radius: 10px;
-  background-size: cover;
-  opacity: 0.9;
-}
-
 body {
   background-color: red;
-  margin: 30px auto;
-  padding: 20px;
-  display: block;
-  border: 1px black;
 }
 
 form {

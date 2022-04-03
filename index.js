@@ -14,7 +14,7 @@ function getFormattedDate() {
     "Friday",
     "Saturday",
   ];
-  let formattedMins = "";
+
   if (minutes < 10) {
     formattedMins = `0${minutes}`;
   } else {

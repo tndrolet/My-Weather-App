@@ -123,3 +123,11 @@ h4 {
   height: 400px;
   padding-left: 100px;
 }
+
+h8 {
+  color: #20c997;
+  margin: 0 auto;
+  display: block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: wavy;
+}

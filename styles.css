@@ -8,10 +8,10 @@
 }
 
 body {
-  background-color: #20c997;
+  background-color: red;
   margin: 30px auto;
   padding: 20px;
-  display: inside;
+  display: block;
   border: 1px dashed black;
 }
 

@@ -87,6 +87,7 @@ margin: 0 auto;
 
 .forecast {
   font-family: "Courier New", Courier, monospace;
+  margin: 0 auto;
   text-align: center;
   margin: 40px 20px;
 }

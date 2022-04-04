@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: red;
+  background-color: seashell;
 }
 
 form {
@@ -16,7 +16,7 @@ form {
 }
 
 .search-box {
-  background-color: seashell;
+  background-color: bisque;
   border-radius: 12px 0px 12px 0px;
   border-bottom: rgba(86, 135, 119, 0.4);
   padding: 5px 10px;
@@ -29,7 +29,7 @@ button {
   border-radius: 0px 12px 0px 12px;
   border: 2px solid rgba(86, 135, 119, 0.5);
   transition: all 200ms ease-in-out;
-  color: teal;
+  color: thistle;
   border-style: none;
   background-color: rgba(86, 135, 119, 0.4);
 }

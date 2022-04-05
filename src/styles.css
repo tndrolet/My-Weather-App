@@ -89,7 +89,7 @@ li:first-letter {
 }
 
 body {
-  background-image: url(floral.jpg");
+  background-image: url("floral.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

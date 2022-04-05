@@ -21,8 +21,8 @@ small {
   display: block;
   margin: 0 auto;
   text-align: center;
+  color: red;
 }
-
 .weather-app {
   padding: 20px;
   border: 2px dashed #dadde1;
@@ -86,4 +86,11 @@ li:first-letter {
   position: relative;
   font-size: 18px;
   top: -32px;
+}
+
+body {
+  background-image: url(floral.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }

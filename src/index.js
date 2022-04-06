@@ -65,7 +65,6 @@ function displayFahrenheitTemperature(event) {
   fahrenheitLink.classList.add("active)");
 
   let fahrenheitTemperature = (celsiusTemperature * 9) / 5 + 32;
-  alert("fahrenheitTemperature");
   temperatureElement.innerHTML = Math.round(fahrenheitTemperature);
 }
 

@@ -21,7 +21,7 @@ small {
   display: block;
   margin: 0 auto;
   text-align: center;
-  color: red;
+  color: black;
 }
 .weather-app {
   padding: 20px;
@@ -89,7 +89,7 @@ li:first-letter {
 }
 
 body {
-  background-image: url("https://www.onlygfx.com/wp-content/uploads/2017/08/flower-floral-frame-1.jpg");
+  background-image: url("https://c.wallhere.com/photos/9c/2e/1920x1080_px_anime-797686.jpg!d");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -102,4 +102,23 @@ body {
 
 .weather-temperature .active:hover {
   text-decoration: none;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  color: black;
+  opacity: 0.6;
+}
+
+.weather-forecast-temperature-low {
+  opacity: 0.6;
+}
+
+.weather-forecast-temperatures {
+  font-size: 13px;
 }

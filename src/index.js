@@ -98,6 +98,7 @@ function displayForecast() {
       <span class="weather-forecast-temperature-low">12°</span>
     </div>
   </div>
+  </div>
 `;
   });
 
